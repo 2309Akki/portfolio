@@ -12,7 +12,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Akshay Shivayogi Sawalagi</b> and I am from Karnataka, India.
-            I'm a <b>MERN stack web developer</b> and a pre-final year college student pursuing <b>B.E in CSE</b>. <br/><br/>
+            I'm a <b>MERN stack web developer</b> and a Final year college student pursuing <b>B.E in CSE</b>. <br/><br/>
             {/* I have done an internship as a <b>software developer</b> at GoalFi which is a fintech startup. */}
             I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
